@@ -1,4 +1,4 @@
-#include <DirectXMathVector.inl>
+
 #include <iostream>
 using namespace std;
 Class Student{
